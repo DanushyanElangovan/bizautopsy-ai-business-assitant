@@ -22,9 +22,15 @@ Key Features
 
 Technology Stack
 Frontend: HTML, CSS, JavaScript, React.js
+
 Backend: Python
+
 Database: MySQL
+
 AI & Analytics: Python, Pandas, Scikit-learn
+
 Testing: Postman, Selenium
+
 Design: Figma, Draw.io
+
 Version Control: GitHub
