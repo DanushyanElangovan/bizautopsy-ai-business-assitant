@@ -3,13 +3,21 @@ An AI-powered web-based business diagnostic system designed to help Small and Me
 The system analyzes business data such as sales, expenses, customer behavior, inventory, and profit trends to identify performance issues, detect potential risks, and generate actionable recommendations. It provides business health analysis, visual dashboards, automated diagnosis, and AI-generated insights through a user-friendly web application.
 
 Key Features
+
 📊 Business performance and health analysis
+
 📈 Sales and expense trend analysis
+
 👥 Customer behavior analysis
+
 ⚠️ Business risk identification
+
 🤖 AI-based problem diagnosis
+
 💡 Automated recommendations
+
 📑 Diagnostic reports and visual dashboards
+
 🔐 Secure authentication and data management
 
 Technology Stack
