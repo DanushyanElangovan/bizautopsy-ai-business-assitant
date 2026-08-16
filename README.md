@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BizAutopsy AI — frontend
 
 Frontend for the "AI Business Autopsy Tool for SMEs" HND final project. Built with
@@ -59,3 +60,41 @@ Replace the exports in `src/data/mockData.js` with `fetch`/axios calls to your
 Python backend once it's ready (e.g. `GET /api/business/:id/diagnostics`), and
 the pages will keep working unchanged since they only consume the shaped data,
 not the mock module directly by name.
+=======
+# bizautopsy-ai-business-assitant
+An AI-powered web-based business diagnostic system designed to help Small and Medium Enterprises (SMEs) identify the root causes of declining business performance and make data-driven decisions.
+The system analyzes business data such as sales, expenses, customer behavior, inventory, and profit trends to identify performance issues, detect potential risks, and generate actionable recommendations. It provides business health analysis, visual dashboards, automated diagnosis, and AI-generated insights through a user-friendly web application.
+
+Key Features
+
+📊 Business performance and health analysis
+
+📈 Sales and expense trend analysis
+
+👥 Customer behavior analysis
+
+⚠️ Business risk identification
+
+🤖 AI-based problem diagnosis
+
+💡 Automated recommendations
+
+📑 Diagnostic reports and visual dashboards
+
+🔐 Secure authentication and data management
+
+Technology Stack
+Frontend: HTML, CSS, JavaScript, React.js
+
+Backend: Python
+
+Database: MySQL
+
+AI & Analytics: Python, Pandas, Scikit-learn
+
+Testing: Postman, Selenium
+
+Design: Figma, Draw.io
+
+Version Control: GitHub
+>>>>>>> d87ab1528411e28d9a4a2e1ed0342c3f33409ec9
